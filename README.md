@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Adarsh
-Currenly pursuing MTech in Data Science at IITPKD
+I am Adarsh.  
+Currently pursuing MTech in Data Science at IITPKD
 <!--
 **AdarshGunasekar/AdarshGunasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
